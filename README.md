@@ -6,4 +6,4 @@ Check out the project UI/UX design on Figma:<br>
 https://www.figma.com/design/ypjfSUehh9csYKQYoYnc8O/internal-hackathon?node-id=164-115&t=jhMLtrMFVgIU5LCb-1
 
 **ML-MODEL**<br>
-The fully functional ML model for the application is in the directory : lib > ml_model
+The fully functional ML model for the application is in the directory : lib > ml_models
