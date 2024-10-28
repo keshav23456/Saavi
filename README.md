@@ -9,4 +9,4 @@ https://www.figma.com/design/ypjfSUehh9csYKQYoYnc8O/internal-hackathon?node-id=1
 The fully functional ML model for the application is in the directory : lib > ml_models
 <br><br>
 **WORKFLOW-WIREFRAME**<br>
-Checkout 'SAVI_ORKES.png' file in the main branch.
+Link: https://play.orkes.io/workflowDef/SAVI_App_Workflow
